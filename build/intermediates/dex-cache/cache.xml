@@ -3,57 +3,111 @@
 
     <item
         is-multidex="true"
-        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_53f4a081dda15b2ce7c474adad44c535f2c5479f/classes.dex" />
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_85b0b3347c89adc6ce8afa646922bd9687e3eb1f/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_c60d5c5ed4e87ce914461fad852e9d8f7782cb48/classes.dex" />
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_d6422ed3c2319d0a15e94990a08f600568cdf45f/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_017c34bd504080f017920df8ae341b11014b4c5f/classes.dex" />
+        sha1="8a6942659ec776ef530bf0d9f03bcacd4000051e">
+        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dd9a058f4718f11bc93eca953a4d2affaa53fb04/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
-        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_9126ade3c9315494d9dfb3d6e7153c6eca8d53c3/classes.dex" />
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_bb50e7618e5be92ac60d7f408db3ce52f5542bfe/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jar="/Users/simranpreetkaurchahal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
-        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_0148d5c87243eee2e3d880e9617d21e48b3b2c52/classes.dex" />
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_031779b1bbd89ad16042c0f5f0a8941b0d130182/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/simranpreetkaurchahal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
-        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_d7e3894d30100ae867c78f173e7e8def7e769d48/classes.dex" />
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_f42220e8dba6266aff6bd46c3484aa2f1004b7c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_0d2ff5cb5332e98c148f9694259e8dbe74f49e9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_49c263635cdc893aa30c04bd41db9b2444371d64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_865f1875f057d10f979431a23c8b892c7b73ceb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_74590e5689cbf0a6610cf3ecc4e1782348f0710d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_26fbe946ff89bfd06aa823251f5a5eacd616ed92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_b0e237badd889be39e7922b9fffeb3c932b16155/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,57 +120,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_cecd6f244fc53690861cc3577709be1b1ecc8598/classes.dex" />
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_afb871f8fbcc9918407aba9eb95c1b0db620db73/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
-        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_21d30df83e0ce340e1ca4da8afce23c1d345028a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="a884aee37ab712d6628508894961796807937192">
-        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dd9a058f4718f11bc93eca953a4d2affaa53fb04/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_6c5445523b9c0c4547e56b6b6eaedc5d915254cc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
-        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_cf4c8b00827cb92beab727e12347eeb779a7e2ea/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="debf30ce0a7560396b6235edef77e447006454c2">
-        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_bc67b97f894db4ff5a97d9f9098c64546d9a2e62/classes.dex" />
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/simranpreetkaurchahal/Desktop/Workspace/MyGitHub/Android Apps/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_de2d57d3f417a5d870c6cec6833eaab9a0e00f37/classes.dex" />
     </item>
 
 </items>
